@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna khusus Dark Mode (Pengayaan) -->
+    <color name="p04_navy">#60A5FA</color>
+    <color name="p04_slate">#CBD5E1</color>
+    <color name="p04_page">#0F172A</color>
+    <color name="p04_white">#1E293B</color>
+    <color name="p04_selected_bg">#334155</color>
+</resources>
